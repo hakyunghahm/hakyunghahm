@@ -6,8 +6,8 @@
 - [산지직팜](https://github.com/SanjiJikFarm), *Local-Food ESG Tracking and Community Platform* (25.09~)
 
 ### 🚀 Experience
-- 9th Backend Memeber, UMC (25.09~)
-- 5th Frontend Member, EFUB (25.03~)
+- 9th Backend Memeber, UMC, University Union IT Club (25.09~)
+- 5th Frontend Member, EFUB, Ewha Web Development Club (25.03~)
 
 ### ⚡️ Skills
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) 
