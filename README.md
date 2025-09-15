@@ -3,7 +3,7 @@
 ### 🐱 Projects
 
 - [MAAVE](https://github.com/EFUB5-RoomListener), *Real-time Collaborative Music Listening Service* (25.07~25.08)
-- [산지직팜](https://github.com/SanjiJikFarm), *Local-Food ESG Tracking and Community Platform* (25.09~)
+- [산지직팜](https://github.com/SanjiJikFarm), *Local Food ESG Tracking and Community Platform* (25.09~)
 
 ### 🚀 Experience
 - Backend Memeber, UMC, University Union IT Club (25.09~)
@@ -14,13 +14,12 @@
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) 
-![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
 
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
-![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Naver Cloud](https://img.shields.io/badge/Naver_Cloud-03C75A?style=for-the-badge&logo=cloudflare&logoColor=white) 
 
 
