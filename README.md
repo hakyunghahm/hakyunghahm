@@ -1,6 +1,6 @@
 ### Hakyung
 
-🌱 Currently exploring **Cloud**, **Data Engineering**, and **Agentic AI**
+🌱 Currently interested in  **Cloud**, **Data Engineering**, and **Agentic AI**
 
 ### 🐱 Projects
 
