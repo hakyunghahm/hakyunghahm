@@ -1,5 +1,7 @@
 ### Hakyung
 
+🌱 Currently exploring Cloud Infrastructure and Multi-Agent AI Systems
+
 ### 🐱 Projects
 
 - [Dolpin](https://github.com/TEAM-AIDERS), *K-pop Issue Detection & AI Agent Response System* (25.09~)
