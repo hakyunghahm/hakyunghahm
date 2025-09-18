@@ -1,6 +1,6 @@
 ### Hakyung
 
-🌱 Currently exploring **Cloud**, **DevOps**, and **Multi-Agent Systems**
+🌱 Currently exploring **Cloud**, **Data Engineering**, and **Agentic AI**
 
 ### 🐱 Projects
 
