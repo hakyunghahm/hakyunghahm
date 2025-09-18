@@ -10,7 +10,7 @@
 
 
 ### 🚀 Experience
-- Backend Memeber, UMC, University Union IT Club (25.09~)
+- Backend Member, UMC, University Union IT Club (25.09~)
 - Frontend Member, EFUB, Ewha Web Development Club (25.03~)
 
 ### ⚡️ Skills
