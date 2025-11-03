@@ -1,7 +1,5 @@
 ### Hakyung
 
-🌱 Currently interested in  **Cloud**, **Data Engineering**, and **Agentic AI**
-
 ### 🐱 Projects
 
 - [Dolpin](https://github.com/TEAM-AIDERS), *K-pop Issue Detection & AI Agent Response System* (25.09~)
