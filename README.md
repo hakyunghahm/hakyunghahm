@@ -3,7 +3,7 @@
 ### 🐱 Projects
 
 - [Dolpin](https://github.com/TEAM-AIDERS), *K-pop Issue Detection & AI Agent Response System* (25.09~)
-- [산지직팜](https://github.com/SanjiJikFarm), *Local Food ESG Tracking and Community Platform* (25.08~25.10)
+- [산지직팜](https://github.com/SanjiJikFarm), *Cloud-native Local Food ESG Tracking Platform* (25.08~25.10)
 - [MAAVE](https://github.com/EFUB5-RoomListener), *Real-time Collaborative Music Listening Service* (25.03~25.08)
 
 
