@@ -2,6 +2,7 @@
 
 ### 🐱 Projects
 
+- [이음](https://github.com/UMC-Eum) *Voice-based Dating Platform for 50+ Seniors* (25.12~)
 - [Dolpin](https://github.com/TEAM-AIDERS), *K-pop Issue Detection & AI Agent Response System* (25.09~)
 - [산지직팜](https://github.com/SanjiJikFarm), *Cloud-native Local Food ESG Tracking Platform* (25.08~25.10)
 - [MAAVE](https://github.com/EFUB5-RoomListener), *Real-time Collaborative Music Listening Service* (25.03~25.08)
@@ -9,7 +10,7 @@
 
 ### 🚀 Experience
 - Backend Member, UMC, University Union IT Club (25.09~)
-- Frontend Member, EFUB, Ewha Web Development Club (25.03~)
+- Frontend Member, EFUB, Ewha Web Development Club (25.03~25.12)
 
 ### ⚡️ Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
