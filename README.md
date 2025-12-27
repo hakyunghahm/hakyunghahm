@@ -2,7 +2,7 @@
 
 ### 🐱 Projects
 
-- [이음](https://github.com/UMC-Eum) *Voice-based Dating Platform for 50+ Seniors* (25.12~)
+- [이음](https://github.com/UMC-Eum) *Voice based Dating Platform for 50+ Seniors* (25.12~)
 - [Dolpin](https://github.com/TEAM-AIDERS), *K-pop Issue Detection & AI Agent Response System* (25.09~)
 - [산지직팜](https://github.com/SanjiJikFarm), *Cloud-native Local Food ESG Tracking Platform* (25.08~25.10)
 - [MAAVE](https://github.com/EFUB5-RoomListener), *Real-time Collaborative Music Listening Service* (25.03~25.08)
