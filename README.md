@@ -9,7 +9,8 @@
 
 
 ### 🚀 Experience
-- Backend Member, UMC, University Union IT Club (25.09~)
+- Engineering Member, BOAZ, Big Data Union Club (26.01~)
+- Backend Member, UMC (25.09~26.02)
 - Frontend Member, EFUB, Ewha Web Development Club (25.03~25.12)
 
 ### ⚡️ Skills
