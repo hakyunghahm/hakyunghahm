@@ -2,8 +2,8 @@
 
 ### 🐱 Projects
 
-- [이음](https://github.com/UMC-Eum), *Voice based Dating Platform for 50+ Seniors* (25.12~)
 - [Dolpin](https://github.com/TEAM-AIDERS), *K-pop Issue Detection & AI Agent Response System* (25.09~)
+- [이음](https://github.com/UMC-Eum), *Voice based Dating Platform for 50+ Seniors* (25.12~26.02)
 - [산지직팜](https://github.com/SanjiJikFarm), *Cloud-native Local Food ESG Tracking Platform* (25.08~25.10)
 - [MAAVE](https://github.com/EFUB5-RoomListener), *Real-time Collaborative Music Listening Service* (25.03~25.08)
 
@@ -22,19 +22,10 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Naver Cloud](https://img.shields.io/badge/Naver_Cloud-03C75A?style=for-the-badge&logo=cloudflare&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-
-
-
-
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack) 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
 
