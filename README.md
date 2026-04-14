@@ -7,8 +7,8 @@ Feel free to connect on [LinkedIn](https://www.linkedin.com/in/hakyung-hahm)!
 ---
 ### My Interest
 - Agentic AI
-- Cloud Native Architecture
-- Real-time Data Pipelines
+- Cloud-native Architecture
+- Data Pipelines
 
 ---
 
